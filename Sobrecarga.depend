@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1542896406 source:d:\ccomp\sobrecarga\main.cpp
+	<iostream>
+	"Point.h"
+	"PointArray.h"
+
+1542897908 d:\ccomp\sobrecarga\include\point.h
+	<iostream>
+
+1542897682 d:\ccomp\sobrecarga\include\pointarray.h
+	"Point.h"
+
+1542894717 source:d:\ccomp\sobrecarga\src\point.cpp
+	"Point.h"
+
+1542894717 source:d:\ccomp\sobrecarga\src\pointarray.cpp
+	"PointArray.h"
+
